@@ -45,11 +45,11 @@ This project focuses on analyzing the average annual daily traffic (AADT) for a 
 
 ## Results
 The results of the analysis and model evaluation are documented in the notebook. Key findings include:
-- Identification of significant features influencing AADT.
-- Comparison of model performance metrics.
+- Identification of significant features influencing AADT with t-tests.
+- Comparison of model performance metrics by F-test, ANOVA, Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC).
 - Recommendations for improving traffic prediction accuracy.
 
 ---
 
 ## Conclusion
-By leveraging data analysis, visualization, and statistical modeling techniques, this project provides insights into traffic patterns and helps in predicting AADT. The models developed can assist in traffic management and planning.
+By leveraging data analysis, visualization, and statistical modeling techniques, this project provides insights into traffic patterns by identifying significant variables and helps to predict AADT.
